@@ -83,6 +83,16 @@ Here is a slightly more complex board. How many points of territory do black and
   </p>
 </details>
 
+### Capturing
 
+Stones have what are called liberties. Liberties are the unoccupied intersections adjacent to the stone. A single stone in the middle of the board has 4 liberties. 
 
+<p align="center">
+   <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/8c42bce7-ec37-44b3-941e-550b38e56782" />
+</p>
 
+<div align="center">
+  
+  *Notice the intersections diagonal to the stone are **not** considered liberties.*
+  
+</div>

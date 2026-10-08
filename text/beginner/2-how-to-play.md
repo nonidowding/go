@@ -1,4 +1,4 @@
-# Introduction
+# How to Play
 
 ### Equipment
 

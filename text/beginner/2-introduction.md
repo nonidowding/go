@@ -8,4 +8,9 @@ Go is both incredibly simple and sophisticated making it a game of elegance. It 
 
 Since I mentioned chess...engineers were able to beat a top professional chess player in 1997 using the computing technology available at the time. Brute force calculations. Go on the other hand, computers were not able to beat top 9-dan professional human players until 2016 using self-teaching artificial intelligence. A fun documentary was made about the occasion for the famous AlphaGo vs. Lee Sedol showdown. It's called AlphaGo and is presently available to watch for free on [YouTube](https://www.youtube.com/watch?v=WXuK6gekU1Y). 
 
+<p align="center">
+  <img width="336" height="480" alt="image" src="https://github.com/user-attachments/assets/7b4e7b68-5ff0-49c0-875f-0da92d415489" />
+
+</p>
+
 The sheer number of possibilities and abstract, almost artistic nature of go requires a certain intuition to be able to play well. The notion of "solving" go on a 19x19 board is at this point in time, ridiculous. 

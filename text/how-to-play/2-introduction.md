@@ -39,5 +39,3 @@ The objective of the game is to use your stones to surround territory. Territory
 
 
 
-
-

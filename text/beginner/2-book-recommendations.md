@@ -23,6 +23,6 @@ There are also a few easy problem books that have less extensive introductory ma
   <img width="168" height="240" alt="image" src="https://github.com/user-attachments/assets/e6544863-8dd6-445c-a4b9-399cdfa98c65" />     <img width="168" height="240" alt="image" src="https://github.com/user-attachments/assets/4f504786-5b0e-4d5a-a3a7-22a2d0ffa5a2" />
 </p>
 
-I advocate for purchasing at least one introductory book when you're starting out. They will all give you the information you need, it's just a matter of what style you prefer. 
+I advocate for purchasing at least one introductory book when you're starting out. They will all give you the information you need to start playing the game, which one you pick is just a matter of what style you prefer. 
 
 That being said, I have read them all and I'm going to try and synthesize and simplify the information gained in the following "How to Play" sections. 

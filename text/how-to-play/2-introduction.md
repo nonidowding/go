@@ -24,9 +24,18 @@ Stones are played on the intersections of the grid, not the spaces. Once a stone
   <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/cb4f9552-f2fd-42a7-99d8-913a0291effe" />
 </p>
 
-
-
-
 ### Objective
 
-The objective of the game is to surround territory. 
+The objective of the game is to use your stones to surround territory. Territory consists of unoccupied intersections of the board that are surrounded by a single color of stones. Does black or white have more territory? 
+
+<img width="542" height="541" alt="image" src="https://github.com/user-attachments/assets/3cdd31b4-610b-451a-981a-636b646ae445" />
+
+<details>
+  <summary>Answer</summary>
+  In this simple example, black has 8 more points of territory than white. 
+</details>
+
+
+
+
+

@@ -11,6 +11,4 @@ Go is both incredibly simple and sophisticated. There are two video resources I 
 
 </p>
 
-
-
 If you watch both of these videos, by the end I challenge you not to be interested in go. 

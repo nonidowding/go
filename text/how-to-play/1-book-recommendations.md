@@ -6,9 +6,12 @@ There are a good amount of introductory go books in English that will teach you 
 - **"Learn to Play Go, A Step-By-Step Guide to the Game"** by Janice Kim and Jeong Soo-hyun. 
 - **"So You Want to Play Go?, Level 1"** by Jonathan Hop.
 <p align="center">
-<img width="168" height="240" alt="image" src="https://github.com/user-attachments/assets/bc42a896-89d2-4a20-9a36-3aa9b3845466" /><img width="168" height="240" alt="image" src="https://github.com/user-attachments/assets/679110d0-6f8c-483b-898e-16146c9fc2be" />
+  <img width="168" height="240" alt="image" src="https://github.com/user-attachments/assets/bc42a896-89d2-4a20-9a36-3aa9b3845466" /><img width="168" height="240" alt="image" src="https://github.com/user-attachments/assets/679110d0-6f8c-483b-898e-16146c9fc2be" />
 </p>
 
+<p align="center">
+  <img width="168" height="240" alt="image" src="https://github.com/user-attachments/assets/734de52b-fb07-4a88-843e-e2367a5d2c81" /><img width="168" height="240" alt="image" src="https://github.com/user-attachments/assets/8a10115c-0bdf-4e45-804e-d4e25cf3dbf7" />
+</p>
 
 
 

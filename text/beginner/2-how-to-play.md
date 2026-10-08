@@ -20,6 +20,13 @@ The pieces are stones. There are 181 black stones and 180 white stones. If playi
   <img width="677" height="369" alt="go-bowls" src="https://github.com/user-attachments/assets/9664c224-0a4b-4868-9ed4-1d9c6d4b7d2f" />
 </p>
 
+<div align="center">
+  
+  *Go stones in bowls.*
+  
+</div>
+
+
 ### Progression of Play
 
 The stronger player (more experienced and likely to win in an even game) takes the white stones. Whoever has the black stones plays first. White and black then alternate taking their turn to move. A move consists of placing a single stone on the board. 

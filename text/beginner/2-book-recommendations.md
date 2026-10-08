@@ -25,4 +25,4 @@ There are also a few easy problem books that have less extensive introductory ma
 
 I advocate for purchasing at least one introductory book when you're starting out. They will all give you the information you need to start playing the game, which one you pick is just a matter of what style you prefer. 
 
-That being said, I have read them all and I'm going to try and synthesize and simplify the information gained in the following "How to Play" sections. 
+That being said, I have read them all and I'm going to try and synthesize and simplify the information gained in the following "How to Play" section. 

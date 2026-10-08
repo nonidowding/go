@@ -34,7 +34,7 @@ The objective of the game is to use your stones to surround territory. Territory
 
 <details>
   <summary>Answer</summary>
-  In this simple example, black has 8 more points of territory than white. 
+  In this simple example, black has 8 more points of territory than white. Notice how territory can be "surrounded" without having stones on all four sides. The edge of the board can also be used as walls. 
 </details>
 
 

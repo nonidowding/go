@@ -21,7 +21,7 @@ The stronger player (more experienced and likely to win in an even game) takes t
 Stones are played on the intersections of the grid, not the spaces. Once a stone is placed it does not move. 
 
 <p align="center">
-  <img width="542" height="541" alt="image" src="https://github.com/user-attachments/assets/cb4f9552-f2fd-42a7-99d8-913a0291effe" />
+  <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/cb4f9552-f2fd-42a7-99d8-913a0291effe" />
 </p>
 
 

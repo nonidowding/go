@@ -5,11 +5,10 @@ There are a good amount of introductory go books in English that will teach you 
 - **"How to Play Go: A Concise Introduction"** by Richard Bozulich and James Davies.
 - **"Learn to Play Go, A Step-By-Step Guide to the Game"** by Janice Kim and Jeong Soo-hyun. 
 - **"So You Want to Play Go?, Level 1"** by Jonathan Hop.
+<img width="336" height="480" alt="image" src="https://github.com/user-attachments/assets/bc42a896-89d2-4a20-9a36-3aa9b3845466" /><img width="336" height="480" alt="image" src="https://github.com/user-attachments/assets/679110d0-6f8c-483b-898e-16146c9fc2be" />
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/40477caa-b81a-443d-a460-3e326c0bc3d0" width="49%" />
-  <img src="https://github.com/user-attachments/assets/f52ac651-3ccd-41c5-bd53-8be91efbeea9" width="49%" />
-</p>
+
+
 
 There are also a few easy problem books that have less extensive introductory material. These might be more appropriate if you already have some exposure to go:
 

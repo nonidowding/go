@@ -129,4 +129,19 @@ If a stone has only 1 liberty left it is said to be in atari. If a stone is in a
   </p>
 </details>
 
-Groups of stones that are solidly connected share liberties. Groups can also be captured if they are surrounded and all of their liberties are filled in. 
+Groups of stones that are solidly connected share liberties. Groups can also be captured if they are surrounded and all of their liberties are filled in. How many liberties do each group of stones have? 
+
+<p align="center">
+ <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/12b697dc-518a-49cf-829f-2e5d41cf5a48" />
+</p>
+
+<div align="center">
+  
+  *Stones make groups through horizontal and vertical lines. Stones diagonal from each other are not solidly connected.*
+  
+</div>
+
+<details>
+  <summary>Answer</summary>
+  A:9, B:12, C:7, D:5, E:3
+</details>

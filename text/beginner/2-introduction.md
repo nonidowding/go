@@ -4,7 +4,7 @@ Go is a strategy board game. Originating in China (there it is called weiqi), it
 
 In this guide I mostly use English and Japanese terms, and Japanese rules.
 
-# Why Play Go?
+### Why Play Go?
 
 Go is both incredibly simple and sophisticated making it a game of elegance. It is played with uniform black and white stones just being placed on a grid, but there are more combinations of possible outcomes in go than there are atoms in the observable universe. For quick breakdown on the math there is an estimate of about 10^80 atoms in the observable universe. In go, there are 361 total points to play on which can each be empty, white, or black. Resulting in roughly 10^172 possible combinations. Some of these combinations are illegal so a closer estimate is said to be 10^170. By comparison, Chess is estimated to have about 10^120 possible games. 
 

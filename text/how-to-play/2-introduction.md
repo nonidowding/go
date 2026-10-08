@@ -8,5 +8,6 @@ Go is a two player game. It is played on a board with a grid on it. The standard
 
 The pieces are stones. There are 181 black stones and 180 white stones. If playing with a physical set, the stones are kept in bowls. The bowls have lids that can also hold a handful of stones.
 
-<img width="677" height="369" alt="go-bowls" src="https://github.com/user-attachments/assets/9664c224-0a4b-4868-9ed4-1d9c6d4b7d2f" />
-
+<p align="center">
+  <img width="677" height="369" alt="go-bowls" src="https://github.com/user-attachments/assets/9664c224-0a4b-4868-9ed4-1d9c6d4b7d2f" />
+</p>p

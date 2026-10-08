@@ -1,1 +1,1 @@
-# igo
+# A Learner's Guide to Go

@@ -70,7 +70,7 @@ Here is a slightly more complex board. How many points of territory do black and
 
 <div align="center">
   
-  *Game referenced from **Go: A Complete Introduction to the Game** by Cho Chikun, pages 14-16.*
+  *Referenced from **"Go: A Complete Introduction to the Game"** by Cho Chikun, pages 14-16.*
   
 </div>
 
@@ -108,3 +108,25 @@ If a stone has all of its liberties filled by the opposing color, the stone is c
   *A captured black stone, and the resulting board state when it is removed.*
   
 </div>
+
+If a stone has only 1 liberty left it is said to be in atari. If a stone is in atari, it can be captured on the opponent's next move unless measures are taken to prevent it. Black plays 1 putting a white stone in atari. How can white prevent black from making a capture?
+
+<p align="center">
+ <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/092d0ef2-13ef-4f6e-90f8-c37fc3534263" />
+</p>
+
+<div align="center">
+  
+  *Referenced from **"Graded Go Problems for Beginners, Volume 1: Introductory Problems"** by Kano Yoshinori, Problem 1.*
+  
+</div>
+
+<details>
+  <summary>Answer</summary>
+  White can extend at 2. 
+  <p align="center">
+   <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/b8f9fbf9-c384-4ade-9731-d6e5fb5d1cf5" />
+  </p>
+</details>
+
+Groups of stones that are solidly connected share liberties. Groups can also be captured if they are surrounded and all of their liberties are filled in. 

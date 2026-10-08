@@ -1,5 +1,7 @@
 # Introduction
 
+### Equipment
+
 Go is a two player game. It is played on a board with a grid on it. The standard board size is 19x19 with 13x13, and 9x9 as smaller options.
 
 <p align="center">
@@ -10,4 +12,21 @@ The pieces are stones. There are 181 black stones and 180 white stones. If playi
 
 <p align="center">
   <img width="677" height="369" alt="go-bowls" src="https://github.com/user-attachments/assets/9664c224-0a4b-4868-9ed4-1d9c6d4b7d2f" />
-</p>p
+</p>
+
+### Progression of Play
+
+The stronger player (more experienced and likely to win in an even game) takes the white stones. Whoever has the black stones plays first. White and black then alternate taking their turn to move. A move consists of placing a single stone on the board. 
+
+Stones are played on the intersections of the grid, not the spaces. Once a stone is placed it does not move. 
+
+<p align="center">
+  <img width="542" height="541" alt="image" src="https://github.com/user-attachments/assets/cb4f9552-f2fd-42a7-99d8-913a0291effe" />
+</p>
+
+
+
+
+### Objective
+
+The objective of the game is to surround territory. 

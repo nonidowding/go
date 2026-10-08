@@ -37,5 +37,20 @@ The objective of the game is to use your stones to surround territory. Territory
   In this simple example, black has 8 more points of territory than white. Notice how territory can be "surrounded" without having stones on all four sides. The edge of the board can also be used as walls. 
 </details>
 
+Here is a slightly more complex board. How many points of territory do black and white each have? *Game referenced from **Go: A Complete Introduction to the Game** by Cho Chikun, pages 14-16.
+
+<p align="center">
+  <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/17ecac6d-2261-4c3e-8dea-dd85f3599f72" />
+</p>
+
+<details>
+  <summary>Answer</summary>
+  White has 27 points of territory and black has 28.
+  <p align="center">
+    <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/8e26f349-7bc0-43bd-92b7-68d719268555" />     <img width="547" height="533" alt="image" src="https://github.com/user-attachments/assets/6df5a13d-c163-4c5e-8eb5-791a7792c80c" />
+  </p>
+</details>
+
+
 
 

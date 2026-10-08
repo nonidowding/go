@@ -145,3 +145,5 @@ Groups of stones that are solidly connected share liberties. Groups can also be 
   <summary>Answer</summary>
   A:9, B:12, C:7, D:5, E:3
 </details>
+
+***IN PROGRESS***

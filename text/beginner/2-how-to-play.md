@@ -47,7 +47,7 @@ Here is a slightly more complex board. How many points of territory do black and
   <summary>Answer</summary>
   White has 27 points of territory and black has 28.
   <p align="center">
-    <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/8e26f349-7bc0-43bd-92b7-68d719268555" />     <img width="547" height="533" alt="image" src="https://github.com/user-attachments/assets/6df5a13d-c163-4c5e-8eb5-791a7792c80c" />
+    <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/8e26f349-7bc0-43bd-92b7-68d719268555" />     <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/6df5a13d-c163-4c5e-8eb5-791a7792c80c" />
   </p>
 </details>
 

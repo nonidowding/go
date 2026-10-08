@@ -10,7 +10,7 @@ Go is a two player game. It is played on a board with a grid on it. The standard
 
 <div align="center">
   
-  *The three most common sizes of go boards.*
+*The three most common sizes of go boards.*
   
 </div>
 
@@ -22,7 +22,7 @@ The pieces are stones. There are 181 black stones and 180 white stones. If playi
 
 <div align="center">
   
-  *Go stones in bowls.*
+*Go stones in bowls.*
   
 </div>
 
@@ -37,7 +37,7 @@ Stones are played on the intersections of the grid, not the spaces. Once a stone
   <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/cb4f9552-f2fd-42a7-99d8-913a0291effe" />
 </p>
 
-d<div align="center">
+<div align="center">
   
   *Correct stone placement.*
   

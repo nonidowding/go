@@ -44,7 +44,9 @@ Here is a slightly more complex board. How many points of territory do black and
 </p>
 
 <div align="center">
+  
   *Game referenced from **Go: A Complete Introduction to the Game** by Cho Chikun, pages 14-16.*
+  
 </div>
 
 

@@ -1,5 +1,5 @@
 # Book Recommendations
-There are a good amount of introductory go books in English that will teach you how to play from absolutely zero knowledge about the game. I focus on books that can be purchased through [Smartgo Books](https://gobooks.com/books-by-level.html). In the Smartgo library there are 4 main options: 
+There are a good amount of introductory go books in English that will teach you how to play from absolutely zero knowledge about the game. I focus on books that can be purchased through [Smartgo Books](https://gobooks.com/books-by-level.html), where all the books mentioned have a sample that can be downloaded. In the Smartgo library there are 4 main options: 
 
 - **"Go: A Complete Introduction to the Game"** by Cho Chikun. 
 - **"How to Play Go: A Concise Introduction"** by Richard Bozulich and James Davies.
@@ -22,6 +22,6 @@ There are also a few easy problem books that have less extensive introductory ma
   <img width="168" height="240" alt="image" src="https://github.com/user-attachments/assets/e6544863-8dd6-445c-a4b9-399cdfa98c65" />     <img width="168" height="240" alt="image" src="https://github.com/user-attachments/assets/4f504786-5b0e-4d5a-a3a7-22a2d0ffa5a2" />
 </p>
 
-I advocate for purchasing at least one introductory book when you're starting out. They will all give you the information you need, it's just a matter of what style you prefer. Free samples of each book can be downloaded from Smartgo Books. 
+I advocate for purchasing at least one introductory book when you're starting out. They will all give you the information you need, it's just a matter of what style you prefer. 
 
 That being said, I have read them all and I'm going to try and synthesize and simplify the information gained in the following "How to Play" sections. 

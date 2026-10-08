@@ -17,12 +17,11 @@ There are a good amount of introductory go books in English that will teach you 
 
 There are also a few easy problem books that have less extensive introductory material. These might be more appropriate if you already have some exposure to go:
 
-**"Black to Play! Train the Basics of Go (30-25 Kyu)"** by Gunnar Dickfeld.
-**"Graded Go Problems for Beginners, Volume 1: Introductory Problems"** by Kano Yoshinori.
+- **"Black to Play! Train the Basics of Go (30-25 Kyu)"** by Gunnar Dickfeld.
+- **"Graded Go Problems for Beginners, Volume 1: Introductory Problems"** by Kano Yoshinori.
 
-<p float="left">
-  <img src="path_to_image1.png" width="49%" />
-  <img src="path_to_image2.png" width="49%" />
+<p align="center">
+  <img width="168" height="240" alt="image" src="https://github.com/user-attachments/assets/e6544863-8dd6-445c-a4b9-399cdfa98c65" />     <img width="168" height="240" alt="image" src="https://github.com/user-attachments/assets/4f504786-5b0e-4d5a-a3a7-22a2d0ffa5a2" />
 </p>
 
 

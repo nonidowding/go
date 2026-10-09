@@ -97,7 +97,7 @@ Stones have what are called liberties. Liberties are the unoccupied intersection
   
 </div>
 
-If a stone has all of its liberties filled by the opposing color, the stone is captured and removed from the board. Captures are kept aside until the end of the game and are used in scoring the game.
+If a stone has all of its liberties filled by the opposing color, the stone is captured and removed from the board. Captures are kept aside until the end of the game and are used for scoring.
 
 <p align="center">
   <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/592ff584-f354-4922-aaf8-b511573e7dd6" />     <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/5d6d87b8-7264-401f-af97-3ae518108089" />

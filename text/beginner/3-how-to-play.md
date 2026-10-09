@@ -10,7 +10,7 @@ Go is a two player game. It is played on a board with a grid on it. The standard
 
 <div align="center">
   
-*The three most common sizes of go boards.*
+*The marked points on the board help orient the players to their position, they are also used as placement markers for handicap stones.*
   
 </div>
 

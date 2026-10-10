@@ -29,7 +29,7 @@ The pieces are stones. There are 181 black stones and 180 white stones. If playi
 
 ### Progression of Play
 
-The stronger player takes the white stones. In an even game black plays first. White and black then alternate taking their turn to move. A move consists of placing a single stone on the board. 
+At the start of the game the board is empty. The stronger player takes the white stones. Black plays first. White and black then alternate taking their turn to move. A move consists of placing a single stone on the board. 
 
 Stones are played on the intersections of the grid, not the spaces. Once a stone is placed it does not move. 
 

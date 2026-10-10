@@ -174,4 +174,7 @@ Can white now recapture black at "B"?
   <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/3245fb07-8036-4166-a5f7-5bb37a6739af" />
 </p>
 
-
+<details>
+  <summary>Answer</summary>
+  No. If white captured black at "B" immediately, it would recreate the same board state before black captured white at "A".
+</details>

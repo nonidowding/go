@@ -6,7 +6,14 @@ First there are the vowel sounds, a, i, u, e, and o.
 
 a, pronounced "ah" as in father. 
 
+<details>
+<summary>AUDIO</summary>
+
 https://github.com/user-attachments/assets/82f2a0ea-f0c5-41fb-93ef-2c48d01eb1da
+
+</details>
+
+
 
 i, pronounced "ee" as in feet. 
 

@@ -150,8 +150,14 @@ Groups of stones that are solidly connected share liberties. Groups can also be 
 
 For the most part any point on the board is a legal move, except in two cases. 
 
-1. Suicide is illegal. You may not play into a point where your stone has no liberties left when placed. "A" is an illegal move for black.
+1. Suicide is illegal. You may not play into a point where your stone has no liberties left when placed. "A" is an illegal move for black. 
 
    <p align="center">
      <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/c9db80e2-f615-416c-8234-cf4ac8ed9740" />
    </p>
+
+If the stone being played makes a capture, it is OK to play into places where there are no liberties. The act of capturing creates liberties. Because stones can be captured, "A" is now a playable point for black.
+
+  <p align="center">
+    <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/8df3e887-d206-4a58-adf2-a75c3c31344a" />
+  </p>

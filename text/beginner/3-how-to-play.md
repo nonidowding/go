@@ -162,9 +162,7 @@ If the stone being played makes a capture, it is OK to play into places where th
     <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/8df3e887-d206-4a58-adf2-a75c3c31344a" />
   </p>
 
-2. You may not repeat a previous board state. This rule arises from a situation called Ko. In Ko white and black could capture each other back and forth in an endless loop, if not for this rule.
-
-For example, black can capture white at "A".
+2. You may not repeat a previous board state. This rule arises from a situation called Ko. In Ko white and black could capture each other back and forth in an endless loop, if not for this rule. For example, black can capture white at "A".
 
 <p align="center">
   <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/d32b1277-c41d-4dd6-a701-9d3993270b9a" />

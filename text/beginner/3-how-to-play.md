@@ -45,7 +45,7 @@ Stones are played on the intersections of the grid, not the spaces. Once a stone
 
 ### Objective
 
-The objective of the game is to use your stones to surround territory. Territory consists of unoccupied intersections of the board that are surrounded by a single color of stones. Does black or white have more territory? 
+The objective of the game is to use your stones to surround territory. A point of territory consists of an unoccupied intersection of the board surrounded by a single color of stones. In the board bellow, does black or white have more territory? 
 
 <p align="center">
   <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/3cdd31b4-610b-451a-981a-636b646ae445" />

@@ -31,12 +31,6 @@ Stones can be captured if they're surrounded. This white stone can be captured o
   <p align="center">
     <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/56acdb62-3bd8-4919-88d3-23008d30fa05" />
   </p>
-
-  When a stone is captured it is removed from the board and set aside until the end of the game for scoring.
-
-  <p align="center">
-    <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/33e70aa1-ef6b-4838-a290-c9f87bc7d28c" />
-  </p>
   
 </details>
 

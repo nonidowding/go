@@ -80,6 +80,19 @@ Both black groups had 3 stones, but the shape they were arranged in determined h
 
 Let's say this time it is white's turn to play, not black's. Where can white play to avoid being immediately captured? 
 
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7aba4e23-e3d7-4922-9976-83b38793678b" />
+</p>
 
+<details>
+  <summary>Answer</summary>
+  
+  C2 is still correct. If white extends their stone it becomes a group. Now, instead of black needing to play one stone to capture, black would need three more moves to capture the group.
+
+  <p align="center">
+    <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e309c495-fca4-4ee9-9d65-f06869408638" />
+  </p>
+  
+</details>
 
 

@@ -12,7 +12,8 @@ First there are the vowel sounds, a, i, u, e, and o.
 
 [e](https://github.com/user-attachments/assets/ada155c3-c517-4e52-84b5-a6bf837b9759), pronounced "eh" as in feather. 
 
-o, pronounced "oh" as in focus.
+[o](https://github.com/user-attachments/assets/cdbfb69e-6a81-4590-9698-57b13a979cbb
+), pronounced "oh" as in focus.
 
 There are also elongated vowel sounds in which the vowel is held for an extra beat. There are no English equivalents to these sounds, but are they are the difference between distinct meanings. Example: "tori" means bird, when "toori" with the long "ohh" sound means street. Each vowel can be elongated.
 

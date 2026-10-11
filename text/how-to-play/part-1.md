@@ -25,6 +25,7 @@ Stones can be captured if they're surrounded. This white stone is in atari, mean
 
 <details>
   <summary>Answer</summary>
+  
   C2 is correct. Black needs to fill each adjacent intersection to the white stone in order to capture it. Note that the diagonal intersections to the white stone need not be filled. 
 
   <p align="center">

@@ -4,7 +4,7 @@ There are a few sounds in Japanese that do not exist in native English. But for 
 
 First there are the vowel sounds, a, i, u, e, and o. 
 
-[a](https://github.com/user-attachments/assets/82f2a0ea-f0c5-41fb-93ef-2c48d01eb1da), pronounced "ah" as in father. 
+[a](https://github.com/user-attachments/assets/e1ead966-c07f-43ee-ae8d-f8110d275c38), pronounced "ah" as in father. 
 
 [i](https://github.com/user-attachments/assets/2ccec4f8-688c-4987-98a0-9b47e953643b), pronounced "ee" as in feet. 
 

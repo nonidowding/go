@@ -10,7 +10,7 @@ First there are the vowel sounds, a, i, u, e, and o.
 
 [u](https://github.com/user-attachments/assets/6e579f48-ba1f-4912-a77d-a19c57f6e566), pronounced "oo" as in food. 
 
-e, pronounced "eh" as in feather. 
+[e](https://github.com/user-attachments/assets/ada155c3-c517-4e52-84b5-a6bf837b9759), pronounced "eh" as in feather. 
 
 o, pronounced "oh" as in focus.
 

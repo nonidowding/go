@@ -1,4 +1,4 @@
-# A Learner's Guide to Go
+# A Guide to Go
 ### How to Play
 [Part 1](text/how-to-play/part-1.md)
 

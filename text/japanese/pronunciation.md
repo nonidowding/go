@@ -8,7 +8,7 @@ First there are the vowel sounds, a, i, u, e, and o.
 
 [i](https://github.com/user-attachments/assets/2ccec4f8-688c-4987-98a0-9b47e953643b), pronounced "ee" as in feet. 
 
-u, pronounced "oo" as in food. 
+[u](https://github.com/user-attachments/assets/ad6170bb-9890-4e10-90b4-afdaee747aa7), pronounced "oo" as in food. 
 
 e, pronounced "eh" as in feather. 
 

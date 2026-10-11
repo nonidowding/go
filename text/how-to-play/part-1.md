@@ -40,3 +40,10 @@ Stones can be captured if they're surrounded. This white stone is in atari, mean
   
 </details>
 
+***IN PROGRESS***
+
+
+
+
+
+

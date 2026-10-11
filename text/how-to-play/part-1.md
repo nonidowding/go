@@ -17,7 +17,7 @@ The object of the game is to surround territory. More territory than your oppone
 
 ### Capture
 
-Stones can be captured if they're surrounded. This white stone is in atari, meaning it can be captured on black's next move. Where should black play to surround the white stone and capture it?
+Stones can be captured if they're surrounded. This white stone can be captured on black's next move. Where should black play to surround the white stone and capture it?
 
 <p align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7aba4e23-e3d7-4922-9976-83b38793678b" />

@@ -6,7 +6,7 @@ To play go you need a square grid and black and white stones. A standard grid is
 
 ### Mechanics
 
-Stones are placed on the intersections of the board, not the spaces. Once a stone is placed it does not move. Black and white alternate taking turns placing a single stone on the board. More on who plays first later.
+Stones are placed on the intersections of the board, not the spaces. Once a stone is played it does not move. Black and white alternate taking turns placing a single stone on the board. More on who plays first later.
 
 ### Purpose
 The object of the game is to surround territory. More territory than your opponent. A point of territory is an unoccupied intersection of the board surrounded by a single color of stones. In this 5x5 game, black has 5 more points of territory than white.

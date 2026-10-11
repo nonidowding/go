@@ -44,3 +44,5 @@ What would be "si" in the pattern ---> becomes "shi" as in she.
 "du" ---> "zu" as in zoo.
 
 The only other pronunciation note is the Japanese "r" sound is somewhere between an English R and L sound, and the mechanics of how it is said feel something like pronouncing an English D or T. The easiest way I have found to replicate the sound is by saying "water" over and over again, replacing the "t" with "ra", "ri", "ru", "re", or "ro". The small tap of the tongue on the roof of the mouth when saying water is similar to how Japanese R's are pronounced. 
+
+***IN PROGRESS***

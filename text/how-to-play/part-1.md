@@ -87,7 +87,7 @@ Let's say this time it is white's turn to play, not black's. Where can white pla
 <details>
   <summary>Answer</summary>
   
-  C2 is still correct. If white extends their stone it becomes a group. Now, instead of black needing to play one stone to capture, black would need three more moves to capture the group.
+  C2 is still correct. If white extends their stone it becomes a group. Now, instead of black needing to play one stone to capture, black will need three more moves to capture the group.
 
   <p align="center">
     <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e309c495-fca4-4ee9-9d65-f06869408638" />

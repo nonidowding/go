@@ -1,6 +1,6 @@
 # How to Play/Part 1
 
-Go is played on a square grid, usually printed on a board. The pieces are black and white stones. Stones are played on the intersections of the board, not the spaces. Once a stone is placed, it does not move. 
+Go is played on a square grid usually printed on a board. The pieces are black and white stones. Stones are played on the intersections of the board, not the spaces. Once a stone is placed it does not move. 
 
 ### Capture
 

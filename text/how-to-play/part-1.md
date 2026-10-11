@@ -1,19 +1,6 @@
 # How to Play/Part 1
 
-### Equipment
-
-To play go you need a square grid and black and white stones. A standard grid is 19x19 and printed on a board. Smaller board sizes that are also regular are 13x13, 9x9 and to a lesser extent 7x7 and 5x5. 
-
-### Basics
-
-Stones are placed on the intersections of the board, not the spaces. Once a stone is played it does not move. Black and white alternate taking turns placing a single stone on the board. Black plays first.
-
-### Purpose
-The object of the game is to surround territory. More territory than your opponent. A point of territory is an unoccupied intersection of the board surrounded by a single color of stones. In this finished 5x5 game, black has 5 more points of territory than white.
-
-<p align="center">
-  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d34c834f-6337-4870-80aa-418502fac346" />
-</p>
+Go is played on a square grid, usually printed on a board. The pieces are black and white stones. Stones are played on the intersections of the board, not the spaces. Once a stone is placed, it does not move. 
 
 ### Capture
 
@@ -95,4 +82,8 @@ Let's say this time it is white's turn to play, not black's. Where can white pla
   
 </details>
 
+Using what has already been presented in this guide, it is possible to play an abbreviated game called "capture go". The rules are simple: 
 
+1. Black plays first.
+2. White and black then alternate turns placing a single stone on the board.
+3. Whoever makes the first capture wins. 

@@ -40,6 +40,14 @@ Stones can be captured if they're surrounded. This white stone can be captured o
   
 </details>
 
+### Escape
+
+Let's say instead of it being blacks turn, it's now white's turn first. Where should white play to prevent immediate capture?
+
+ <p align="center">
+    <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/56acdb62-3bd8-4919-88d3-23008d30fa05" />
+  </p>
+
 ***IN PROGRESS***
 
 

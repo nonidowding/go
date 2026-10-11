@@ -63,6 +63,24 @@ Groups of stones can also be captured if they are completely surrounded. How man
   
 </details>
 
+What about this black group? How many white stones does it take to capture?
+
+<p align="center">
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/60e8e9c3-673d-4640-830b-caaae18dd1b2" />
+</p>
+
+<details>
+  <summary>Answer</summary>
+  
+  7 white stones. 
+  
+  <p align="center">
+    <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/36bdb41b-365d-4f8d-99c6-21ab2e4dc825" />
+  </p>
+  
+</details>
+
+Both black groups had 3 stones, but the shape they were arranged in determined how many white stones were needed to capture them. 
 
 
 

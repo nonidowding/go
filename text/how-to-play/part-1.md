@@ -9,7 +9,13 @@ The object of the game is to surround territory. More territory than your oppone
 
 <p align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d34c834f-6337-4870-80aa-418502fac346" />
-  
-  *Black has 5 more points of territory than white.* 
 </p>
+
+<div align="center">
+  <p>
+    
+    *Black has 5 more points of territory than white.* 
+    
+  </p>
+</div>
 

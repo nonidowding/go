@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/32fc05b3-0423-4f76-b8fc-9792151a3a52
+
 # Japanese/Pronunciation
 
 There are a few sounds in Japanese that do not exist in native English. But for the most part pronunciation is straight forward for English speakers. 
@@ -15,7 +19,7 @@ First there are the vowel sounds, a, i, u, e, and o.
 [o](https://github.com/user-attachments/assets/cdbfb69e-6a81-4590-9698-57b13a979cbb
 ), pronounced "oh" as in focus.
 
-There are also elongated vowel sounds in which the vowel is held for an extra beat. There are no English equivalents to these sounds, but are they are the difference between distinct meanings. Example: "[tori](https://github.com/user-attachments/assets/97b49793-e9ef-4306-9c76-b07638d20314)" means bird, when "[toori]()" with the long "ohh" sound means street. Each vowel can be elongated.
+There are also elongated vowel sounds in which the vowel is held for an extra beat. There are no English equivalents to these sounds, but are they are the difference between distinct meanings. Example: "[tori](https://github.com/user-attachments/assets/97b49793-e9ef-4306-9c76-b07638d20314)" means bird, when "[toori](https://github.com/user-attachments/assets/0e813638-49bd-4cbf-b6b8-4b5e97bace82)" with the long "ohh" sound means street. Each vowel can be elongated.
 
 Next, each vowel sound can be paired with any of these consonants: k, s, t, n, h, m, r, g, z, d, b, p. In addition there is ya, yu, yo, wa, wo (pronounced "oh"), and nn (pronounced like the "n" in fence). This creates sounds like "ka" as in bazooka, "mo" as in moment, and "pi" as in pizza. 
 
@@ -45,6 +49,6 @@ The only other pronunciation note is the Japanese "r" sound is somewhere between
 
 
 
-https://github.com/user-attachments/assets/0e813638-49bd-4cbf-b6b8-4b5e97bace82
+
 
 

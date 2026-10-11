@@ -1,4 +1,4 @@
-# Pronunciation
+# Japanese/Pronunciation
 
 There are a few sounds in Japanese that do not exist in native English. But for the most part pronunciation is straight forward for English speakers. 
 

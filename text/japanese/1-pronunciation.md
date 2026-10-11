@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/32fc05b3-0423-4f76-b8fc-9792151a3a52
-
 # Japanese/Pronunciation
 
 There are a few sounds in Japanese that do not exist in native English. But for the most part pronunciation is straight forward for English speakers. 

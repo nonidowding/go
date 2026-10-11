@@ -17,7 +17,7 @@ First there are the vowel sounds, a, i, u, e, and o.
 
 There are also elongated vowel sounds in which the vowel is held for an extra beat. There are no English equivalents to these sounds, but are they are the difference between distinct meanings. Example: "[tori](https://github.com/user-attachments/assets/97b49793-e9ef-4306-9c76-b07638d20314)" means bird, when "[toori](https://github.com/user-attachments/assets/4e8cd45a-8394-45ce-b7da-f9aaf29dfa1b)" with the long "ohh" sound means street. Each vowel can be elongated.
 
-Next, each vowel sound can be paired with any of these consonants: k, s, t, n, h, m, r, g, z, d, b, p. This creates sounds like "ka" as in bazooka, "mo" as in moment, and "pi" as in pizza. In addition there is ya, yu, yo, wa, wo (pronounced "oh"), and [nn](https://github.com/user-attachments/assets/35951fd8-f6f6-4af2-8d2c-839783e7cb1a) (pronounced like the "n" in fern).  
+Next, each vowel sound can be paired with any of these consonants: k, s, t, n, h, m, r, g, z, d, b, or p. This creates sounds like "ka" as in bazooka, "mo" as in moment, and "pi" as in pizza. In addition there is ya, yu, yo, wa, wo (pronounced "oh"), and [nn](https://github.com/user-attachments/assets/35951fd8-f6f6-4af2-8d2c-839783e7cb1a) (pronounced like the "n" in fern).  
 
 There are a few exceptions. There are no "si", "ti", "tu", "hu", "zi", "di", or "du" sounds. 
 

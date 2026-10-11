@@ -15,7 +15,7 @@ First there are the vowel sounds, a, i, u, e, and o.
 [o](https://github.com/user-attachments/assets/cdbfb69e-6a81-4590-9698-57b13a979cbb
 ), pronounced "oh" as in focus.
 
-There are also elongated vowel sounds in which the vowel is held for an extra beat. There are no English equivalents to these sounds, but are they are the difference between distinct meanings. Example: "tori" means bird, when "toori" with the long "ohh" sound means street. Each vowel can be elongated.
+There are also elongated vowel sounds in which the vowel is held for an extra beat. There are no English equivalents to these sounds, but are they are the difference between distinct meanings. Example: "[tori]()" means bird, when "[toori]()" with the long "ohh" sound means street. Each vowel can be elongated.
 
 Next, each vowel sound can be paired with any of these consonants: k, s, t, n, h, m, r, g, z, d, b, p. In addition there is ya, yu, yo, wa, wo (pronounced "oh"), and nn (pronounced like the "n" in fence). This creates sounds like "ka" as in bazooka, "mo" as in moment, and "pi" as in pizza. 
 

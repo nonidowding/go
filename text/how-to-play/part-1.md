@@ -29,7 +29,7 @@ Stones can be captured if they're surrounded. This white stone can be captured o
   C2 is correct. Black needs to fill each adjacent intersection to the white stone in order to capture it. Note that the diagonal intersections to the white stone need not be filled. 
 
   <p align="center">
-    <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/56acdb62-3bd8-4919-88d3-23008d30fa05" />
+    <img width="864" height="861" alt="image" src="https://github.com/user-attachments/assets/4fe94219-c268-45fd-a70f-61b0a7624dbe" />
   </p>
   
 </details>

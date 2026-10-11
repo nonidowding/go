@@ -15,7 +15,7 @@ First there are the vowel sounds, a, i, u, e, and o.
 [o](https://github.com/user-attachments/assets/cdbfb69e-6a81-4590-9698-57b13a979cbb
 ), pronounced "oh" as in focus.
 
-There are also elongated vowel sounds in which the vowel is held for an extra beat. There are no English equivalents to these sounds, but are they are the difference between distinct meanings. Example: "[tori]()" means bird, when "[toori]()" with the long "ohh" sound means street. Each vowel can be elongated.
+There are also elongated vowel sounds in which the vowel is held for an extra beat. There are no English equivalents to these sounds, but are they are the difference between distinct meanings. Example: "[tori](https://github.com/user-attachments/assets/97b49793-e9ef-4306-9c76-b07638d20314)" means bird, when "[toori]()" with the long "ohh" sound means street. Each vowel can be elongated.
 
 Next, each vowel sound can be paired with any of these consonants: k, s, t, n, h, m, r, g, z, d, b, p. In addition there is ya, yu, yo, wa, wo (pronounced "oh"), and nn (pronounced like the "n" in fence). This creates sounds like "ka" as in bazooka, "mo" as in moment, and "pi" as in pizza. 
 
@@ -35,6 +35,16 @@ What would be "si" in the pattern ---> becomes "shi" as in she.
 
 "du" ---> "zu" as in zoo.
 
+Finally, there are contracted sounds called yōon where a consonant sound can be paired with either ya, yu, or yo. Resulting in sounds such as, kya, myo, or pyu. 
+
 The only other pronunciation note is the Japanese "r" sound is somewhere between an English R and L sound, and the mechanics of how it is said feel something like pronouncing an English D or T. The easiest way I have found to replicate the sound is by saying "water" over and over again, replacing the "t" with "ra", "ri", "ru", "re", or "ro". The small tap of the tongue on the roof of the mouth when saying water is similar to how Japanese R's are pronounced. 
 
 ***IN PROGRESS***
+
+
+
+
+
+https://github.com/user-attachments/assets/0e813638-49bd-4cbf-b6b8-4b5e97bace82
+
+

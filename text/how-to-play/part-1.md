@@ -76,6 +76,10 @@ What about this black group? How many white stones does it take to capture?
 
 Both black groups had 3 stones, but the shape they were arranged in determined how many white stones were needed to capture them. 
 
+### Escape
+
+Let's say this time it is white's turn to play, not black's. Where can white play to avoid being immediately captured? 
+
 
 
 

@@ -2,6 +2,12 @@
 
 Go is played on a square grid usually printed on a board. The pieces are black and white stones. Stones are played on the intersections of the board, not the spaces. Once a stone is placed it does not move. 
 
+Using what is presented in this part of the guide, it is possible to play an abbreviated game called "capture go". The rules are simple: 
+
+1. Black plays first.
+2. White and black then alternate turns placing a single stone on the board.
+3. Whoever makes the first capture wins. 
+
 ### Capture
 
 Stones can be captured if they're surrounded. This white stone can be captured on black's next move. Where should black play to surround the white stone and capture it?
@@ -81,9 +87,3 @@ Let's say this time it is white's turn to play, not black's. Where can white pla
   </p>
   
 </details>
-
-Using what has already been presented in this guide, it is possible to play an abbreviated game called "capture go". The rules are simple: 
-
-1. Black plays first.
-2. White and black then alternate turns placing a single stone on the board.
-3. Whoever makes the first capture wins. 

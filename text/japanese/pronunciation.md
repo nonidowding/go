@@ -6,7 +6,7 @@ First there are the vowel sounds, a, i, u, e, and o.
 
 [a](https://github.com/user-attachments/assets/e1ead966-c07f-43ee-ae8d-f8110d275c38), pronounced "ah" as in father. 
 
-[i](https://github.com/user-attachments/assets/2ccec4f8-688c-4987-98a0-9b47e953643b), pronounced "ee" as in feet. 
+[i](https://github.com/user-attachments/assets/3ddaa96a-ca41-43a0-bbdc-7144eaaa0498), pronounced "ee" as in feet. 
 
 [u](https://github.com/user-attachments/assets/6e579f48-ba1f-4912-a77d-a19c57f6e566), pronounced "oo" as in food. 
 

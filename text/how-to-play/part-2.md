@@ -82,6 +82,20 @@ If black plays at "B" or "C", white simply plays the other point and it becomes 
 
 Technically, it is still conditional life though because white must respond if black plays in the space. If white doesn't respond they can be reduced and captured. This topic will be revisited in [How to Play/Part 3:Ko]()
 
+<details>
+  <summary>Extras</summary>
+  (EASY) Black to live. Where does black play to secure life in the corner? --- Answers purposely not provided. Puzzle over the possibilities!
+
+  <p align="center">
+    <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0e0c44ea-f385-4161-9a5f-c6a929f32ae5" />
+  </p>
+
+  (TRICKY) White to live. (1 move)
+  
+  <p align="center">
+    <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ce87b1d9-9400-4e3b-b840-e25477de85eb" />
+  </p>
+</details>
 
 
 

@@ -72,11 +72,11 @@ If black follows up on "B" with "A" or "C", either black plays next and immediat
 
 So we have found a number of spaces that offers *conditional* life. Let's keep going. 
 
+Turns out, four spaces is the magic number. I'm not going to go over every case of black or white playing in each point "A"-"D". I leave that to the reader to investigate for themselves. The interesting points are "B" and "C". If white plays first in either of these points, they have two separate spaces connected to their group and it cannot be captured by black. The larger space can be reduced by black to 1 point. But That's ok, then white has two separate spaces in which it is illegal for black to play. 
+
 <p align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/58771e8b-bf14-4b29-a726-960caabaf9c2" />
 </p>
-
-Turns out, four spaces is the magic number. I'm not going to go over every case of black or white playing in each point "A"-"D". I leave that to the reader to investigate for themselves. The interesting points are "B" and "C". If white plays first in either of these points, they have two separate spaces connected to their group and it cannot be captured by black. The larger space can be reduced by black to 1 point. But That's ok, then white has two separate spaces in which it is illegal for black to play. 
 
 If black plays at "B" or "C", white simply plays the other point and it becomes the same senerio. It's OK for white to play second in the case of 4 spaces, to secure life. In this way 4 spaces is unconditional life for white and can be left alone as open space without needing to explicitly play a stone to make two separate spaces. 
 

@@ -50,7 +50,7 @@ So then try three spaces. With three spaces it matters who plays first. Starting
 
 <details>
   <summary>Answer</summary>
-  If white plays at "B" there are two separate spaces in which black cannot play. The group is invincible. White no longer wants to play in their own area. Doing so would reduce white to one space and they would again be capturable.  
+  If white plays at "B" there are two separate spaces in which black cannot play. The group is invincible. White no longer wants to play in their own area. Doing so would reduce white to one space and they would again be capturable. As is, white has secured two points of territory.
 
   <p align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1fa1d5ad-ed57-4ace-a047-c3496624e862" />

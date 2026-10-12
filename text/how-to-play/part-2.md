@@ -86,7 +86,7 @@ Turns out, four spaces is the magic number. I'm not going to go over every case 
 
 If black plays at "B" or "C", white simply plays the other point and it becomes the same senerio. It's OK for white to play second in the case of 4 spaces to secure life. In this way 4 spaces is unconditional life for white and can be left alone as open space without needing to explicitly play a stone to make two separate spaces. 
 
-Technically, it is still conditional life though because white must respond if black plays in the space. If white doesn't respond they can be reduced and captured. This topic will be revisited in [How to Play/Part 3:Ko](text/how-to-play/part-3.md). 
+Technically, it is still conditional life though because white must respond if black plays in the space. If white doesn't respond they can be reduced and captured. This topic will be revisited in [How to Play/Part 4:Ko](text/how-to-play/part-3.md). 
 
 Take note that these examples cover spaces *in a row*. In go, shape matters. Other formations of 4 spaces behave differently. 
 

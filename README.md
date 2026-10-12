@@ -1,4 +1,4 @@
-# A Guide to Go
+# Learn Go
 ### How to Play
 [Part 1](text/how-to-play/part-1.md), [Part 2](text/how-to-play/part-2.md)
 

@@ -1,10 +1,16 @@
 # How to Play/Part 2
 
-It is no longer the rule that first capture wins the game. In a full game of go the objective is to surround territory. More territory than your opponent. A point of territory is an open intersection of the board surrounded by a single color of stones. So let's concern ourselves with how to build walls that cannot be captured. 
+It is no longer the rule that first capture wins the game. In a full game of go the objective is to surround territory. More territory than your opponent. A point of territory is an open intersection of the board surrounded by a single color of stones. Here is a simple finished game. Black has 5 more points of territory than white. 
 
+<p align="center">
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/dcd006d3-9d05-48b2-90a4-43ed6bc88304" />
+</p>
+
+But how do we know this game is finished? Couldn't white or black still be captured? Or could white build territory inside what appears to be black's space? To answer these questions it is important to understand how a group of stones is unconditionally alive.
+  
 ### Life and Death
 
-What do stones need to be unconditionally alive? In order to stay alive stones need open space. If they are surrounded and have no unoccupied intersections, they are captured. One space is not enough to stay alive. The white group can be surrounded around the outside and captured at "A". 
+In order to stay alive stones need open space. If they are surrounded and have no unoccupied intersections, they are captured. One space is not enough to stay alive. The white group can be surrounded around the outside and captured at "A". 
 
 <p align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1171a853-7373-42a0-a302-f284e6f2aa46" />

@@ -1,6 +1,6 @@
 # How to Play/Part 2
 
-We are now suspending the rule that first capture wins the game. The new objective is to surround territory. A point of territory is an open intersection of the board surrounded by a single color of stones. 
+It is no longer the rule that first capture wins the game. The new objective is to surround territory. A point of territory is an open intersection of the board surrounded by a single color of stones. 
 
 ### Life and Death
 

@@ -21,7 +21,7 @@ Next, each vowel sound can be paired with any of these consonants: k, s, t, n, h
 
 There are a few exceptions. There are no "si", "ti", "tu", "hu", "zi", "di", or "du" sounds. 
 
-What would be "si" in the pattern ---> becomes "["shi"](https://github.com/user-attachments/assets/ce990db2-f0ce-4d90-a81a-a2363558777a)" as in she. 
+What would be "si" in the pattern ---> becomes "[shi](https://github.com/user-attachments/assets/ce990db2-f0ce-4d90-a81a-a2363558777a)" as in she. 
 
 "ti" ---> "chi" as in cheese.
 

@@ -98,6 +98,13 @@ Take note that these examples cover spaces *in a row*. In go, shape matters. Oth
     <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0e0c44ea-f385-4161-9a5f-c6a929f32ae5" />
   </p>
 
+  Black to kill. (2 moves)
+
+  <p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bd147e91-8c2e-4c77-b9d1-2d5acd76cd21" />
+  </p>
+
+
   White to live. (1 move)
   
   <p align="center">

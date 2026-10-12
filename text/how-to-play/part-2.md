@@ -1,6 +1,6 @@
 # How to Play/Part 2
 
-It is no longer the rule that first capture wins the game. In a full game of go the objective is to surround territory. More territory than your opponent. A point of territory is an open intersection of the board surrounded by a single color of stones. Here is a simple finished game. Black has 5 more points of territory than white. 
+It is no longer the rule that first capture wins the game. In a full game of go the objective is to surround territory, more territory than your opponent. A point of territory is an open intersection of the board surrounded by a single color of stones. Here is a simple finished game. Black has 5 more points of territory than white. 
 
 <p align="center">
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/dcd006d3-9d05-48b2-90a4-43ed6bc88304" />

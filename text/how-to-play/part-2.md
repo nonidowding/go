@@ -62,7 +62,6 @@ White does not want to play "A" or "C", those moves reduce white to two spaces w
 
 <p align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/52956fd3-aa8d-4964-9da7-be86b9f3bfcd" />
-
   </p>
 
 If black follows up on "B" with "A" or "C", either black plays next and immediately captures white, or white plays and captures black but is reduced to two spaces.

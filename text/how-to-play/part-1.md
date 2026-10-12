@@ -71,7 +71,7 @@ Both black groups had 3 stones, but the shape they were arranged in determined h
 
 ### Escape
 
-Let's say this time it is white's turn to play, not black's. Where can white play to avoid being immediately captured? 
+This time it is white's turn to play. Where can white play to avoid being immediately captured? 
 
 <p align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7aba4e23-e3d7-4922-9976-83b38793678b" />

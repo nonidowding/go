@@ -1,6 +1,6 @@
 # How to Play/Part 2
 
-It is no longer the rule that first capture wins the game. The new objective is to surround territory. A point of territory is an open intersection of the board surrounded by a single color of stones. 
+It is no longer the rule that first capture wins the game. In a full game of go the objective is to surround territory. A point of territory is an open intersection of the board surrounded by a single color of stones. So let's concern ourselves with how to build walls that cannot be captured. 
 
 ### Life and Death
 

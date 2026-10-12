@@ -87,3 +87,19 @@ Let's say this time it is white's turn to play, not black's. Where can white pla
   </p>
   
 </details>
+
+### Illegal Move
+
+"A" is an illegal move for black. To play there would be self capture. 
+
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/119dbfb2-605e-4c76-99b5-37c160a649fb" />
+</p>
+
+However, if black is to make a capture while playing at "A" it is now a legal move.
+
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b8f65616-175c-4e9f-8b73-2664de9b57c1" />
+</p>
+
+

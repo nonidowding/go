@@ -10,7 +10,7 @@ What do stones need to be unconditionally alive? In order to stay alive stones n
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1171a853-7373-42a0-a302-f284e6f2aa46" />
 </p>
 
-What about two spaces? Well, there's a problem there too. If black tries to capture white by placing a stone in the space, if either white or black play at "B" white is still captured. If Black plays at "B" white is immediately captured. If white plays at "B", black is immediately captured, but white is reduced to one space again and can be captured back. 
+What about two spaces? Well, there's a problem there too. If white plays in their own space, they are reduced to one liberty and can be captured. If black tries to capture white by placing a stone in the space, in either case of white or black playing at "B" white is still captured. If Black plays at "B" white is immediately captured. If white plays at "B", black is immediately captured, but white is reduced to one space again and can be captured back. 
 
 <p align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1bde1ecd-b7de-4403-8a38-baa3d8cfcc58" />
@@ -36,9 +36,18 @@ What about two spaces? Well, there's a problem there too. If black tries to capt
   
 </details>
 
-So then try three spaces. With three spaces it matters who plays first. Starting with if white goes first...If white plays "A" or "C" they are reducing themselves to two spaces. We know how two spaces goes. But what happens if White plays at B?
+So then try three spaces. With three spaces it matters who plays first. Starting with if white goes first...If white plays "A" or "C" they are reducing themselves to two spaces. We know how two spaces goes. What happens if White plays at B?
 
 <p align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0cb74357-70db-47da-b60c-2bfdc1b1366c" />
 </p>
 
+<details>
+  <summary>Answer</summary>
+  If white plays at "B" there are two separate spaces in which black cannot play. The group is invincible.  
+
+  <p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1fa1d5ad-ed57-4ace-a047-c3496624e862" />
+  </p>
+
+</details>

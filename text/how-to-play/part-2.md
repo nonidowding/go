@@ -58,7 +58,7 @@ What if black goes first? If black plays at "A" or "C", white plays at "B" captu
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/132bd048-c2ad-4e00-9007-abbecece8503" />
   </p>
 
-White does not want to play "A" or "C", those moves reduce white to two spaces with a black stone already in one space. 
+You can prove it to yourself because white does not want to play "A" or "C", those moves reduce white to two spaces with a black stone already in one space. 
 
 <p align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/52956fd3-aa8d-4964-9da7-be86b9f3bfcd" />
@@ -69,3 +69,19 @@ If black follows up on "B" with "A" or "C", either black plays next and immediat
 <p align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/90632431-23c4-4006-9476-5fc7a1e1c370" />
 </p>
+
+So we have found a number of spaces that offers *conditional* life. Let's keep going. 
+
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/58771e8b-bf14-4b29-a726-960caabaf9c2" />
+</p>
+
+Turns out, four spaces is the magic number. I'm not going to go over every case of black or white playing in each point "A"-"D". I leave that to the reader to investigate for themselves. The interesting points are "B" and "C". If white plays first in either of these points, they have two separate spaces connected to their group and it cannot be captured by black. The larger space can be reduced by black to 1 point. But That's ok, then white has two separate spaces in which it is illegal for black to play. 
+
+If black plays at "B" or "C", white simply plays the other point and it becomes the same senerio. It's OK for white to play second in the case of 4 spaces, to secure life. In this way 4 spaces is unconditional life for white and can be left alone as open space without needing to explicitly play a stone to make two separate spaces. 
+
+Technically, it is still conditional life though because white must respond if black plays in the space. If white doesn't respond they can be reduced and captured. This topic will be revisited in [How to Play/Part 3]()
+
+
+
+

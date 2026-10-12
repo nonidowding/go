@@ -36,5 +36,9 @@ What about two spaces? Well, there's a problem there too. If black tries to capt
   
 </details>
 
+So then try three spaces. With three spaces it matters who plays first. Starting with if white goes first...If white plays "A" or "C" they are reducing themselves to two spaces. We know how two spaces goes. But what happens if White plays at B?
 
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0cb74357-70db-47da-b60c-2bfdc1b1366c" />
+</p>
 

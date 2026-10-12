@@ -10,7 +10,7 @@ What do stones need to be unconditionally alive? In order to stay alive stones n
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1171a853-7373-42a0-a302-f284e6f2aa46" />
 </p>
 
-What about two spaces? Well, there's a problem there too. If white plays in their own space, they are reduced to one liberty and can be captured. If black tries to capture white by placing a stone in the space, in either case of white or black playing at "B" white is still captured. If Black plays at "B" white is immediately captured. If white plays at "B", black is immediately captured, but white is reduced to one space again and can be captured back. 
+What about two spaces? Well, there's a problem there too. If white plays in their own space, they are reduced to one space and can be captured. If black tries to capture white by placing a stone in the space, in either case of white or black playing at "B" white is still captured. If Black plays at "B" white is immediately captured. If white plays at "B", black is immediately captured, but white is reduced to one space again and can be captured back. 
 
 <p align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1bde1ecd-b7de-4403-8a38-baa3d8cfcc58" />
@@ -51,3 +51,21 @@ So then try three spaces. With three spaces it matters who plays first. Starting
   </p>
 
 </details>
+
+What if black goes first? If black plays at "A" or "C", white plays at "B" capturing the black stone and the result is the same as if white had played first at "B". If black plays at "B" though, white is dead.
+
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/132bd048-c2ad-4e00-9007-abbecece8503" />
+  </p>
+
+White does not want to play "A" or "C", those moves reduce white to two spaces. 
+
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/132bd048-c2ad-4e00-9007-abbecece8503" />
+  </p>
+
+If black follows up on "B" with "A" or "C", either black plays next and immediately captures white, or white plays and captures black but is reduced to two spaces.
+
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/90632431-23c4-4006-9476-5fc7a1e1c370" />
+</p>

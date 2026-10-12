@@ -4,8 +4,8 @@ Go is played on a square grid usually printed on a board. The pieces are black a
 
 Using what is presented in this part of the guide, it is possible to play an abbreviated game called "capture go". The rules are simple: 
 
-1. Black plays first.
-2. White and black then alternate turns placing a single stone on the board.
+1. Black plays first. They may play anywhere to start.
+2. White and black then alternate turns placing a single stone on the board. For the most part they may play anywhere, there is a case of an [illegal move](#illegal-move)
 3. Whoever makes the first capture wins. 
 
 ### Capture

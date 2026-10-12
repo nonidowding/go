@@ -78,9 +78,11 @@ Turns out, four spaces is the magic number. I'm not going to go over every case 
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/58771e8b-bf14-4b29-a726-960caabaf9c2" />
 </p>
 
-If black plays at "B" or "C", white simply plays the other point and it becomes the same senerio. It's OK for white to play second in the case of 4 spaces, to secure life. In this way 4 spaces is unconditional life for white and can be left alone as open space without needing to explicitly play a stone to make two separate spaces. 
+If black plays at "B" or "C", white simply plays the other point and it becomes the same senerio. It's OK for white to play second in the case of 4 spaces to secure life. In this way 4 spaces is unconditional life for white and can be left alone as open space without needing to explicitly play a stone to make two separate spaces. 
 
-Technically, it is still conditional life though because white must respond if black plays in the space. If white doesn't respond they can be reduced and captured. This topic will be revisited in [How to Play/Part 3:Ko]()
+Technically, it is still conditional life though because white must respond if black plays in the space. If white doesn't respond they can be reduced and captured. This topic will be revisited in [How to Play/Part 3:Ko](text/how-to-play/part-3.md). 
+
+Take note that these examples cover spaces *in a row*. In go, shape matters. Other formations of 4 spaces behave differently. 
 
 <details>
   <summary>Extras</summary>
@@ -95,6 +97,13 @@ Technically, it is still conditional life though because white must respond if b
   <p align="center">
     <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ce87b1d9-9400-4e3b-b840-e25477de85eb" />
   </p>
+
+  Is black alive or dead? 
+
+  <p align="center">
+    <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e70c8426-6c3d-4391-8d71-a852dbf5397a" />
+  </p>
+  
 </details>
 
 

@@ -26,7 +26,7 @@ Groups with one internal space can be captured. What about two? Can this group o
 
 <details>
   <summary>Answer</summary>
-  Yes. First, surround the group from the outside. A group with two internal spaces can be reduced to one internal space by playing a stone inside. Two things can happen here that both result in white being captured. 1. If white captures the black stone by playing at "A", white can immediately be captured back by black. 2. White does nothing locally and black can simply play at "A" for the capturing move.
+  Yes. A group with two internal spaces can be reduced to one internal space by playing a stone inside. Two things can happen here that both result in white being captured. 1. If white captures the internal black stone by playing at "A", white is left with only one internal space. Black can now surround from the outside and capture white as in the previous example. 2. White does nothing locally. Black can then surround from the outside and play at "A" for the capturing move. 
 
   <p align="center">
     <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/777d13c4-ab6f-451d-a6d1-5d1740788433" />

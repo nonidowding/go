@@ -2,5 +2,7 @@
 ### Elementary Steps
 [1. Capture](text/how-to-play/1-capture.md), [2. Capture Level 2](text/how-to-play/2-capture-2.md)
 
+### How to Play
+
 ### Japanese (Around the Go Board)
 [1. Pronunciation](text/japanese/1-pronunciation.md)

@@ -24,13 +24,9 @@ Stones can be captured if they're surrounded. The marked white stone can be capt
 
 <details>
   <summary>Answer</summary>
-  
-  C2 is correct. Black needs to fill each adjacent intersection to the white stone in order to capture it. Note that the diagonal intersections to the white stone need not be filled. 
 
-  <p align="center">
-    <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4fe94219-c268-45fd-a70f-61b0a7624dbe" />
-  </p>
-  
+https://github.com/user-attachments/assets/650c433d-c87d-47d0-af37-aca0df4ac652
+
 </details>
 
 Stones can also be captured on the sides and corners of the board. Note that in the middle of the board it took four stones to capture 1 stone. On the side of the board it takes 3 stones to capture 1 stone, and on the corner it only takes two stones to capture 1 stone. It is easier to capture against walls of the board than in the center. 
@@ -39,7 +35,7 @@ Stones can also be captured on the sides and corners of the board. Note that in 
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2db84958-145c-48ef-844d-285417641f22" />
 </p>
 
-Groups of stones can also be captured if they are completely surrounded. How many white stones does it take to surround and capture this black group? 
+Groups of stones can also be captured if they are surrounded. How many white stones does it take to surround and capture this black group? 
 
 <p align="center">
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c627df7e-35d3-4c33-9586-ea38cb6a06a8" />

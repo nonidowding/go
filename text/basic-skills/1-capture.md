@@ -27,6 +27,7 @@ Stones can be captured if they're surrounded. The marked white stone can be capt
 <p align="center">
 https://github.com/user-attachments/assets/650c433d-c87d-47d0-af37-aca0df4ac652
 </p>
+  
 </details>
 
 Stones can also be captured on the sides and corners of the board. Note that in the middle of the board it took four stones to capture 1 stone. On the side of the board it takes 3 stones to capture 1 stone, and on the corner it only takes two stones to capture 1 stone. It is easier to capture against walls of the board than in the center. 

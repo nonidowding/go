@@ -1,4 +1,4 @@
-# Essential Skills/Capture
+# Basic Skills/Capture
 
 Go is played on a square grid usually printed on a board. The pieces are black and white stones. Stones are played on the intersections of the board, not the spaces. Once a stone is placed it does not move. 
 

@@ -30,12 +30,12 @@ Stones can be captured if they're surrounded. The marked white stone can be capt
 </details>
 
 
-Stones can also be captured on the sides and corners of the board. [Video Demo](https://github.com/user-attachments/assets/ac5a84c6-524a-40f1-8f79-78b146545663).
+Stones can be captured on the sides and corners of the board. [Video Demo](https://github.com/user-attachments/assets/ac5a84c6-524a-40f1-8f79-78b146545663).
 
 Groups of stones can also be captured if they are surrounded. How many white stones does it take to surround and capture this black group? 
 
 <p align="center">
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c627df7e-35d3-4c33-9586-ea38cb6a06a8" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/97cfc7cf-a48d-426c-bb7a-ac788754c189" />
 </p>
 
 <details>

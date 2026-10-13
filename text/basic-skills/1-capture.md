@@ -78,5 +78,15 @@ However, if black is to make a capture while playing at "A" it is now a legal mo
 </p>
 
 ## Extras
+### Identifying Groups
+Can you count how many distinct groups of stones are on the board? 
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+### Shape
+
+### Practice
 Here are some shapes to practice capturing stones. [Capture 1](https://online-go.com/puzzle/106052)
 

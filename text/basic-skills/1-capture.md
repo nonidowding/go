@@ -41,11 +41,7 @@ Groups of stones can also be captured if they are surrounded. How many white sto
 <details>
   <summary>Answer</summary>
   
-  8 white stones. 
-  
-  <p align="center">
-    <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8ae7f793-44b3-453e-845b-4848a186b372" />
-  </p>
+[Video Demo](https://github.com/user-attachments/assets/a6c57c20-3c17-4a09-bd88-e4c2837897a7).
   
 </details>
 

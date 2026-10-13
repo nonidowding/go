@@ -1,6 +1,6 @@
 # Basic/Capture Level 2
 ## New Rules
-Let's up the difficulty level by modifying the rules to capture go. All of the previous rules are still in effect except now you must capture at least 3 stones at the same time to win. This means first capture does not necessarily win, if you capture 1 or 2 stone groups play continues. This also creates opportunities for situations that require defining a [2nd illegal move]. I suggest playing with this rule set on a 9x9 board. 
+Let's up the difficulty level by modifying the rules to capture go. All of the previous rules are still in effect except now you must capture at least 3 stones at the same time to win. This means first capture does not necessarily win, if you capture 1 or 2 stone groups play continues. This also creates opportunity for situations that require defining a [2nd illegal move]. I suggest playing with this rule set on a 9x9 board. 
 
 ## Life and Death (Focus on Capturing)
 Can this group of black stones be captured? 
@@ -26,7 +26,10 @@ Groups with one internal space can be captured. What about two? Can this group o
 
 <details>
   <summary>Answer</summary>
-  Yes. A group with two internal spaces can be reduced to one internal space by playing a stone inside. Two things can happen here that both result in white being captured. 1. If white captures the internal black stone by playing at "A", white is left with only one internal space. Black can now surround from the outside and capture white as in the previous example. 2. White does nothing locally. Black can then surround from the outside and play at "A" for the capturing move. 
+  Yes. This can happen two ways:
+
+  1. Black plays a stone in the inside of white's stones. White captures the black stone. White now only has 1 internal space and can be captured as in the previous example.
+  2. Black plays a stone in the inside of white's stones. White does not play locally. Black then surrounds white from the outside and plays a 2nd stone in white's internal space as the capturing move.
 
   <p align="center">
     <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/777d13c4-ab6f-451d-a6d1-5d1740788433" />

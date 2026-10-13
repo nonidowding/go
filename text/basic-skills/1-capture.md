@@ -107,8 +107,5 @@ However, if black is to make a capture while playing at "A" it is now a legal mo
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b8f65616-175c-4e9f-8b73-2664de9b57c1" />
 </p>
 
-<details>
-  <summary>Extras</summary>
-  Here are some shapes to practice capturing stones. 
-  [Capture 1](https://online-go.com/puzzle/106052)
-</details>
+Here are some shapes to practice capturing stones. [Capture 1](https://online-go.com/puzzle/106052)
+

@@ -25,7 +25,7 @@ Stones can be captured if they're surrounded. The marked white stone can be capt
 <details>
   <summary>Answer</summary>
 
-<img src="[https://github.com](https://github.com/user-attachments/assets/650c433d-c87d-47d0-af37-aca0df4ac652)" width="500">
+<img src="https://github.com](https://github.com/user-attachments/assets/650c433d-c87d-47d0-af37-aca0df4ac652" width="500">
   
 </details>
 

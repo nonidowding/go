@@ -81,12 +81,40 @@ However, if black is to make a capture while playing at "A" it is now a legal mo
 ### Identifying Groups
 Can you count how many distinct groups of stones are on the board? 
 
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a15ab5cf-fe8c-48ff-a8ec-700efec79b9d" />
+</p>
+
 <details>
   <summary>Answer</summary>
+  9.
 </details>
 
 ### Shape
+How many stones does it take to capture this black group? 
+
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/dc187559-52d7-4122-8e99-0309dba691bb" />
+</p>
+
+<details>
+  <summary>Answer</summary>
+  9 white stones.
+</details>
+
+What about this black group?
+
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2eead61d-355b-40de-aa68-b1331b35aaa0" />
+</p>
+
+<details>
+  <summary>Answer</summary>
+  8 white stones.
+</details>
+
+Both black groups had 4 stones in them, but the shape they were arranged in determined how many stones were needed to be captured. 
 
 ### Practice
-Here are some shapes to practice capturing stones. [Capture 1](https://online-go.com/puzzle/106052)
+Here are some exercises to practice capturing and saving stones. ***IN PROGRESS***
 

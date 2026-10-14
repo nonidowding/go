@@ -1,6 +1,6 @@
 # Basic Skills/Capture
 ## Overview
-Go is a two person game. It is played on a square grid called a board. The standard board size is 19x19, with 13x13 and 9x9 as smaller options. In this section of the guide I will be using 7x7 and 5x5, considered teaching sizes.
+Go is a two person game. It is played on a square grid printed on a board. The standard board size is 19x19, with 13x13 and 9x9 as smaller options. In this section of the guide I will be using 7x7 and 5x5, considered teaching sizes.
 
 The pieces are black and white stones. A full go set has 181 black stones and 180 white stones. But it's OK if you have a few less.
 

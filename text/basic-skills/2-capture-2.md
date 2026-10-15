@@ -6,4 +6,4 @@ This also creates opportunity for situations that require defining a [2nd illega
 
 I suggest playing with this rule set on a 9x9 board. 
 
-## Lesson
+## Lessons

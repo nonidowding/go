@@ -5,3 +5,5 @@ To take capture go to the next level and make it more difficult, change the obje
 This also creates opportunity for situations that require defining a [2nd illegal move]().
 
 I suggest playing with this rule set on a 9x9 board. 
+
+## Lesson

@@ -6,6 +6,8 @@ I suggest playing with this rule set on a 9x9 board.
 
 ## Lessons
 ### Connect and Cut
-### Space (Making Groups Invincible)
-### Vital Point (Killing Groups)
+### Space 
+### Vital Point 
 ## Extras
+### Space (cont.)
+### Practice Puzzles

@@ -11,7 +11,7 @@ First, I'm going to teach you how to play a very beginner friendly variant of go
 1. At the Start of the game the board is empty.
 2. Black plays first. They may play anywhere to start.
 3. White and black then alternate turns placing a single stone on the board. For the most part they may play anywhere but there is a case of an [illegal move](#illegal-move).
-4. Whoever makes the first capture wins.
+4. Whoever makes the first capture wins. Play MUST continue until a capture is made.
 
 ## Details
 ### Capture
@@ -113,4 +113,3 @@ What about this black group?
 </details>
 
 Both black groups had 4 stones in them, but the shape they were arranged in determined how many white stones were needed to be captured. 
-

@@ -4,5 +4,4 @@
 
 ### How to Play
 
-### Japanese (Around the Go Board)
-[1. Pronunciation](text/japanese/1-pronunciation.md)
+

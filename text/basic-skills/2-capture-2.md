@@ -7,5 +7,5 @@ I suggest playing with this rule set on a 9x9 board.
 ## Lessons
 ### Connect and Cut
 ### Space (Life)
-### Vital Point (Death)
+### Vital Point (Killing Groups)
 ## Extras

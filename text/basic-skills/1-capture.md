@@ -113,3 +113,6 @@ What about this black group?
 </details>
 
 Both black groups had 4 stones in them, but the shape they were arranged in determined how many white stones were needed to be captured. 
+
+### Practice Puzzles
+***IN PROGRESS***

@@ -13,4 +13,5 @@ I suggest playing with this rule set on a 9x9 board.
 ### Ko 
 ## Extras
 ### Space (cont.)
+### Capturing Techniques
 ### Practice Puzzles

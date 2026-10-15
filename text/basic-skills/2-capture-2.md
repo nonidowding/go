@@ -10,6 +10,7 @@ I suggest playing with this rule set on a 9x9 board.
 ### Connect and Cut
 ### Space 
 ### Vital Point 
+### Ko 
 ## Extras
 ### Space (cont.)
 ### Practice Puzzles

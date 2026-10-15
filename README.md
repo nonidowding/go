@@ -4,4 +4,6 @@
 
 ## How to Play
 
+1. Language of Go, 2. Objective and RUles
+
 
